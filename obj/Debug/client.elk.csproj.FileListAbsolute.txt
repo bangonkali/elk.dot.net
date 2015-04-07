@@ -1,0 +1,14 @@
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\client.elk.exe.config
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\obj\Debug\client.elk.csprojResolveAssemblyReference.cache
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\client.elk.exe
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\client.elk.pdb
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\Elasticsearch.Net.dll
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\Nest.dll
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\Elasticsearch.Net.xml
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\Nest.pdb
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\Nest.xml
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\obj\Debug\client.elk.exe
+C:\Users\gilmichael.regalado\Documents\Visual Studio 2012\Projects\elk\client.elk\obj\Debug\client.elk.pdb
